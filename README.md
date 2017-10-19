@@ -70,3 +70,4 @@ You will need:
 
 
 
+[![Build Status](https://travis-ci.org/dagnyosk/stringCalcWeb.svg?branch=master)](https://travis-ci.org/dagnyosk/stringCalcWeb)
